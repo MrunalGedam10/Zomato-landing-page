@@ -1,3 +1,3 @@
 This is Zomato clone
 
-Editted
+Edited
