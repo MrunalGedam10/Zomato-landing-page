@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Zomato-landing-page",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Zomato-landing-page",
+		"liveServer.settings.port": 5501
+	}
+}
